@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuTopGames"
+        android:title="@string/top_games"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/menuNewestGames"
+        android:title="@string/newest_games"
+        android:enabled="true" />
+
+</menu>
